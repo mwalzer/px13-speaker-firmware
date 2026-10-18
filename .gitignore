@@ -1,0 +1,7 @@
+# Proprietary ASUS/TI files - extract locally, never commit.
+firmware/*.bin
+firmware/*.exe
+
+# Local scratch / agent state
+*.tmp
+.claude/
